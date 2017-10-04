@@ -1,4 +1,4 @@
-pkg_name=sample-node-app
+pkg_name=mwrock
 pkg_origin=your_origin
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
